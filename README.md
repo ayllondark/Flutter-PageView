@@ -1,16 +1,21 @@
-# disenos
+### PageView Slider
 
-A new Flutter project.
+![](https://flutter-es.io/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg)
 
-## Getting Started
+![](https://img.shields.io/github/stars/ayllondark/editor.md.svg) ![](https://img.shields.io/github/forks/ayllondark/editor.md.svg) ![](https://img.shields.io/github/tag/ayllondark/editor.md.svg) ![](https://img.shields.io/github/release/ayllondark/editor.md.svg) ![](https://img.shields.io/github/issues/ayllondark/editor.md.svg)
 
-This project is a starting point for a Flutter application.
+=============
 
-A few resources to get you started if this is your first Flutter project:
+###Characters
+                
+----
+Desarrollo de 2 pantallas en flutter utilizando PageView de forma slider.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Image:
+
+![](http://www.creativalatam.com/images/pageview.gif)
+
+
+
+###End
